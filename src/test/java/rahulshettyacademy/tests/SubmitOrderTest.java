@@ -16,6 +16,8 @@ import rahulshettyacademy.pageobjects.ConfirmationPage;
 import rahulshettyacademy.pageobjects.OrderPage;
 import rahulshettyacademy.pageobjects.ProductCatalogue;
 
+// THIS COMMENT IS ADDED AS PART OF JENKINS GITHUB CICD TUTORIAL
+
 public class SubmitOrderTest extends BaseTest {
 	String productName = "ZARA COAT 3";
 
